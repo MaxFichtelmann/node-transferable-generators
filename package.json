@@ -1,0 +1,20 @@
+{
+  "name": "@fichtelmax/transferable-generators",
+  "version": "0.0.1",
+  "description": "Utility to help generators and the like to survive the electron contextBridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxFichtelmann/node-transferable-generators.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxFichtelmann/node-transferable-generators/issues"
+  },
+  "homepage": "https://github.com/MaxFichtelmann/node-transferable-generators#readme"
+}
